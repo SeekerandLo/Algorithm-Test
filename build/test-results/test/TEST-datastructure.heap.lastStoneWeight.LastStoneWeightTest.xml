@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="datastructure.heap.lastStoneWeight.LastStoneWeightTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-06-20T09:22:07" hostname="DESKTOP-5RFR6J8" time="419.605">
+  <properties/>
+  <testcase name="priorityQueue_test" classname="datastructure.heap.lastStoneWeight.LastStoneWeightTest" time="419.605"/>
+  <system-out><![CDATA[[1, 2, 5, 10, 6]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
