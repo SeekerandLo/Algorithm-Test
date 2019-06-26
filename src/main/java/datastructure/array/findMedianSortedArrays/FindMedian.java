@@ -38,8 +38,4 @@ public class FindMedian {
         }
     }
 
-    public float findMedianSortedArrays(int[] nums1, int[] nums2) {
-
-        return 0;
-    }
 }

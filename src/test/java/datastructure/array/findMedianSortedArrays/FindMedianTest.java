@@ -21,7 +21,7 @@ public class FindMedianTest {
 
         FindMedian findMedian = new FindMedian();
 
-        double actual = findMedian.findMedianSortedArrays(nums1, nums2);
+        double actual = findMedian.simpleFindMedianSortedArrays(nums1, nums2);
         Assert.assertEquals(expect, actual, 0);
     }
 
@@ -34,7 +34,7 @@ public class FindMedianTest {
 
         FindMedian findMedian = new FindMedian();
 
-        double actual = findMedian.findMedianSortedArrays(nums1, nums2);
+        double actual = findMedian.simpleFindMedianSortedArrays(nums1, nums2);
         Assert.assertEquals(expect, actual, 0);
     }
 

@@ -34,13 +34,12 @@ public class AddTwoNumbersTest {
     }
 
 
-    @Test
-    public void addTwoNumbersTest() {
-        AddTwoNumbers addTwoNumbers = new AddTwoNumbers();
-        ListNode actual = addTwoNumbers.addTwoNumbers(node1, node2);
-
-        actual.out();
-    }
+//    @Test
+//    public void addTwoNumbersTest() {
+//        AddTwoNumbers addTwoNumbers = new AddTwoNumbers();
+//        ListNode actual = addTwoNumbers.addTwoNumbers(node1, node2);
+//
+//    }
 
     @Test
     public void when_one_longerThan_other() {

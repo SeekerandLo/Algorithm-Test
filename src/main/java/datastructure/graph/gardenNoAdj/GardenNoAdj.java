@@ -20,14 +20,15 @@ package datastructure.graph.gardenNoAdj;
 public class GardenNoAdj {
 
     /**
-     * 
+     *
      *
      *
      *
      */
 
     public int[] gardenNoAdj(int N, int[][] paths) {
-        int[] ans = {};
+        int[] ans = new int[N];
+
 
 
         return ans;

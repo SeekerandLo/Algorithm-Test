@@ -75,8 +75,9 @@ public class BinarySearchTree<E extends Comparable<E>> implements Tree<E> {
 
         if (e.compareTo(node.val) < 0) {
             helpKnowAdd(node.left, e);
-        } else
+        } else {
             helpKnowAdd(node.right, e);
+        }
     }
 
     @Override
