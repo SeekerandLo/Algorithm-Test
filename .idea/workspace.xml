@@ -2,59 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83456ace-b68c-4e96-9852-c0f491fa28fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/Trees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/convertBST/ConvertBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/diameterOfBinaryTree/DiameterOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/ergodic/BreadthFirstErgodic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/ergodic/DepthFirstErgodic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/ergodic/Preordering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/isCousins/IsCousins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/mergeTrees/MergeTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/pathSum/PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/practise/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/practise/JumpSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/practise/ReversalLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/allCellsDistOrder/AllCellsDistOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/tree/TreesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/tree/ergodic/BreadthFirstErgodicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/tree/ergodic/DepthFirstErgodicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/tree/mergeTrees/MergeTreesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/tree/pathSum/PathSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/math/isBoomerang/IsBoomerangTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sort/allCellsDistOrder/AllCellsDistOrderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructure/array/findMedianSortedArrays/FindMedian.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/datastructure/array/findMedianSortedArrays/FindMedian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructure/tree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/datastructure/tree/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructure/tree/BinaryTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructure/tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/datastructure/tree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/recursion/AddDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/recursion/AddDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/datastructure/array/findMedianSortedArrays/FindMedianTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/datastructure/array/findMedianSortedArrays/FindMedianTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/datastructure/list/addTwoNumbers/AddTwoNumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/datastructure/list/addTwoNumbers/AddTwoNumbersTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/datastructure.heap.lastStoneWeight.LastStoneWeightTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/datastructure.heap.lastStoneWeight.LastStoneWeightTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/datastructure.heap.lastStoneWeight.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/datastructure.heap.lastStoneWeight.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-datastructure.heap.lastStoneWeight.LastStoneWeightTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-datastructure.heap.lastStoneWeight.LastStoneWeightTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/array/findMedianSortedArrays/FindMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/array/findMedianSortedArrays/FindMedian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/graph/gardenNoAdj/GardenNoAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/graph/gardenNoAdj/GardenNoAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/tree/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/tree/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/recursion/AddDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recursion/AddDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/datastructure/array/findMedianSortedArrays/FindMedianTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/datastructure/array/findMedianSortedArrays/FindMedianTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/AddTwoNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/AddTwoNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -95,7 +51,57 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -137,8 +143,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="76">
+              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -157,15 +172,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="166">
               <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1406">
-              <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -224,7 +230,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/string/romanToInt/RomanToIne.java" />
         <option value="$PROJECT_DIR$/src/main/java/datastructure/string/romanToInt/RomanToInt.java" />
         <option value="$PROJECT_DIR$/src/test/java/datastructure/hash/findGemstone/FindGemstoneTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/datastructure/hash/findGemstone/FindGemstone.java" />
@@ -275,6 +280,7 @@
         <option value="$PROJECT_DIR$/src/test/java/datastructure/array/findMedianSortedArrays/FindMedianTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/AddTwoNumbersTest.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -476,7 +482,7 @@
       <workItem from="1561376520502" duration="10816000" />
       <workItem from="1561424187387" duration="9794000" />
       <workItem from="1561508080105" duration="12094000" />
-      <workItem from="1561542968410" duration="238000" />
+      <workItem from="1561542968410" duration="1792000" />
     </task>
     <servers />
   </component>
@@ -513,7 +519,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84818000" />
+    <option name="totallyTimeSpent" value="86358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,8 +533,8 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79477614" visible="true" weight="0.19235925" />
-      <window_info id="Structure" order="1" sideWeight="0.20522387" side_tool="true" visible="true" weight="0.19235925" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78197676" visible="true" weight="0.19235925" />
+      <window_info id="Structure" order="1" sideWeight="0.21802326" side_tool="true" visible="true" weight="0.19235925" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -543,7 +549,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.10623229" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2407932" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5127479" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -556,7 +562,7 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Mongo Explorer" order="7" />
-      <window_info anchor="right" id="Gradle" order="8" />
+      <window_info anchor="right" id="Gradle" order="8" visible="true" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
@@ -697,17 +703,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/math/BigDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30001">
-          <caret line="1624" column="23" selection-start-line="1624" selection-start-column="23" selection-end-line="1624" selection-end-column="23" />
-          <folding>
-            <element signature="e#67977#67978#0" expanded="true" />
-            <element signature="e#68041#68042#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/text/NumberFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4921">
@@ -1118,10 +1113,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="76">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
