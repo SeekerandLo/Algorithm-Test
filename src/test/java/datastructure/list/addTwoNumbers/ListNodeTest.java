@@ -1,9 +1,8 @@
 package datastructure.list.addTwoNumbers;
 
+import datastructure.list.ListNode;
 import org.junit.Before;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class ListNodeTest {
 
@@ -20,7 +19,7 @@ public class ListNodeTest {
 
     @Test
     public void out() {
-        node1.out();
+        node1.reverseOut();
     }
 
 }

@@ -2,8 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83456ace-b68c-4e96-9852-c0f491fa28fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/array/canThreePartsEqualSum/CanThreePartsEqualSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/array/numPairsDivisibleBy60/NumPairsDivisibleBy60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/array/prefixesDivBy5/PrefixesDivBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/list/deleteDuplicates/DeleteDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/list/mergeTwoLists/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/map/commonChars/CommonChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/stack/removeOuterParentheses/RemoveOuterParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/greedy/largestSumAfterKNegations/LargestSumAfterKNegations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/math/bitwiseComplement/BitwiseComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/array/canThreePartsEqualSum/CanThreePartsEqualSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/array/numPairsDivisibleBy60/NumPairsDivisibleBy60Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/array/prefixesDivBy5/PrefixesDivBy5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/list/deleteDuplicates/DeleteDuplicatesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/list/mergeTwoLists/MergeTwoListsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/datastructure/stack/removeOuterParentheses/RemoveOuterParenthesesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/math/bitwiseComplement/BitwiseComplementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructure/list/addTwoNumbers/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/datastructure/list/addTwoNumbers/AddTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructure/list/addTwoNumbers/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/datastructure/list/addTwoNumbers/AddTwoNumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/datastructure/list/addTwoNumbers/AddTwoNumbersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/datastructure/list/addTwoNumbers/ListNodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/datastructure/list/addTwoNumbers/ListNodeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/datastructure.heap.lastStoneWeight.LastStoneWeightTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/datastructure.heap.lastStoneWeight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-datastructure.heap.lastStoneWeight.LastStoneWeightTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/list/addTwoNumbers/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/list/addTwoNumbers/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/list/addTwoNumbers/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/list/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/AddTwoNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/AddTwoNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/ListNodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/ListNodeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -59,6 +98,19 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="algorithm" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="algorithm" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
@@ -66,30 +118,6 @@
                 <item name="algorithm" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build setup" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="documentation" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="help" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -104,10 +132,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/tree/isCousins/IsCousins.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/math/bitwiseComplement/BitwiseComplement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="646">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/greedy/largestSumAfterKNegations/LargestSumAfterKNegations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <folding>
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/map/commonChars/CommonChars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,83 +166,68 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/array/findMedianSortedArrays/FindMedianTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
+            <state relative-caret-position="456">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/AddTwoNumbersTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/mergeTwoLists/MergeTwoLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="36" selection-start-line="36" selection-start-column="2" selection-end-line="41" selection-end-column="7" />
+            <state relative-caret-position="247">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/deleteDuplicates/DeleteDuplicates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/list/deleteDuplicates/DeleteDuplicatesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#744#745#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/list/mergeTwoLists/MergeTwoListsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/Gradle/gradle-repository/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/addTwoNumbers/AddTwoNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/addTwoNumbers/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/array/findMedianSortedArrays/FindMedian.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/tree/TreesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -203,8 +238,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
+        <option value="Gradle Kotlin DSL Settings" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -221,23 +257,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/datastructure/hash/findGemstone/FindGemstoneTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/hash/findGemstone/FindGemstone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/string/bigramDivison/BigGramDivison.java" />
-        <option value="$PROJECT_DIR$/src/test/java/datastructure/string/bigramDivison/BigGramDivisionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/string/bigramDivison/BigGramDivision.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/string/gcdOfStrings/GcdDescription.java" />
-        <option value="$PROJECT_DIR$/src/test/java/datastructure/string/gcdOfStrings/GcdOfStringsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/datastructure/string/gcdOfStrings/GcdDescriptionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/string/gcdOfStrings/GcdOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/test/java/datastructure/array/heightChecker/HeightCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/array/heightChecker/HeightChecker.java" />
-        <option value="$PROJECT_DIR$/src/test/java/datastructure/stack/removeDuplicates/RemoveDuplicatesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/stack/removeDuplicates/RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/heap/lastStoneWeight/LastStoneWeight.java" />
-        <option value="$PROJECT_DIR$/src/test/java/datastructure/heap/lastStoneWeight/LastStoneWeightTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/datastructure/graph/gardenNoAdj/GardenNoAdjTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/datastructure/graph/gardenNoAdj/GardenNoAdj.java" />
         <option value="$PROJECT_DIR$/src/test/java/math/isRobotBounded/IsRobotBoundedTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/math/isRobotBounded/IsRobotBounded.java" />
         <option value="$PROJECT_DIR$/src/test/java/math/isBoomerang/IsBoomerangTest.java" />
@@ -272,12 +291,30 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/datastructure/stack/removeOuterParentheses/RemoveOuterParenthesesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/stack/removeOuterParentheses/RemoveOuterParentheses.java" />
+        <option value="$PROJECT_DIR$/src/test/java/datastructure/array/prefixesDivBy5/PrefixesDivBy5Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/array/prefixesDivBy5/PrefixesDivBy5.java" />
+        <option value="$PROJECT_DIR$/src/test/java/datastructure/array/canThreePartsEqualSum/CanThreePartsEqualSumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/array/canThreePartsEqualSum/CanThreePartsEqualSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/datastructure/array/numPairsDivisibleBy60/NumPairsDivisibleBy60Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/array/numPairsDivisibleBy60/NumPairsDivisibleBy60.java" />
+        <option value="$PROJECT_DIR$/src/main/java/math/bitwiseComplement/BitwiseComplement.java" />
+        <option value="$PROJECT_DIR$/src/test/java/math/bitwiseComplement/BitwiseComplementTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greedy/largestSumAfterKNegations/LargestSumAfterKNegations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/datastructure/list/mergeTwoLists/MergeTwoListsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/list/mergeTwoLists/MergeTwoLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/list/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/list/deleteDuplicates/DeleteDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/test/java/datastructure/list/deleteDuplicates/DeleteDuplicatesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/datastructure/map/commonChars/CommonChars.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1300" />
+    <option name="x" value="187" />
+    <option name="y" value="45" />
+    <option name="width" value="1640" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -288,7 +325,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,11 +332,57 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm-Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm-Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+              <item name="commonChars" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,14 +397,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="datastructure.tree.pathSum" />
-      <recent name="datastructure.tree" />
-      <recent name="datastructure.tree.mergeTrees" />
-      <recent name="datastructure.tree.ergodic" />
-      <recent name="sort.allCellsDistOrder" />
+      <recent name="datastructure.list.deleteDuplicates" />
+      <recent name="datastructure.list.mergeTwoLists" />
+      <recent name="math.bitwiseComplement" />
+      <recent name="datastructure.array.numPairsDivisibleBy60" />
+      <recent name="datastructure.array.canThreePartsEqualSum" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -340,13 +423,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.FindMedianTest.testFindMedianSortedArrays2">
-    <configuration name="BreadthFirstErgodicTest.breadthFirstErgodic" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.DeleteDuplicatesTest.test_class_modify">
+    <configuration name="BitwiseComplementTest.bitwiseComplement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;datastructure.tree.ergodic.BreadthFirstErgodicTest.breadthFirstErgodic&quot;" />
+        <option name="scriptParameters" value="--tests &quot;math.bitwiseComplement.BitwiseComplementTest.bitwiseComplement&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -361,12 +444,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DepthFirstErgodicTest.depthFirstErgodic" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="BitwiseComplementTest.byteMath" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;datastructure.tree.ergodic.DepthFirstErgodicTest.depthFirstErgodic&quot;" />
+        <option name="scriptParameters" value="--tests &quot;math.bitwiseComplement.BitwiseComplementTest.byteMath&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -381,12 +464,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="FindMedianTest.testFindMedianSortedArrays" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DeleteDuplicatesTest.deleteDuplicates" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;datastructure.array.findMedianSortedArrays.FindMedianTest.testFindMedianSortedArrays&quot;" />
+        <option name="scriptParameters" value="--tests &quot;datastructure.list.deleteDuplicates.DeleteDuplicatesTest.deleteDuplicates&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -401,12 +484,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="FindMedianTest.testFindMedianSortedArrays2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DeleteDuplicatesTest.test_class_modify" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;datastructure.array.findMedianSortedArrays.FindMedianTest.testFindMedianSortedArrays2&quot;" />
+        <option name="scriptParameters" value="--tests &quot;datastructure.list.deleteDuplicates.DeleteDuplicatesTest.test_class_modify&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -421,12 +504,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="TreesTest.getTreeRoot" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MergeTwoListsTest.mergeTwoLists" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;datastructure.tree.TreesTest.getTreeRoot&quot;" />
+        <option name="scriptParameters" value="--tests &quot;datastructure.list.mergeTwoLists.MergeTwoListsTest.mergeTwoLists&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -443,11 +526,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FindMedianTest.testFindMedianSortedArrays2" />
-        <item itemvalue="Gradle.FindMedianTest.testFindMedianSortedArrays" />
-        <item itemvalue="Gradle.TreesTest.getTreeRoot" />
-        <item itemvalue="Gradle.BreadthFirstErgodicTest.breadthFirstErgodic" />
-        <item itemvalue="Gradle.DepthFirstErgodicTest.depthFirstErgodic" />
+        <item itemvalue="Gradle.DeleteDuplicatesTest.test_class_modify" />
+        <item itemvalue="Gradle.DeleteDuplicatesTest.deleteDuplicates" />
+        <item itemvalue="Gradle.MergeTwoListsTest.mergeTwoLists" />
+        <item itemvalue="Gradle.BitwiseComplementTest.bitwiseComplement" />
+        <item itemvalue="Gradle.BitwiseComplementTest.byteMath" />
       </list>
     </recent_temporary>
   </component>
@@ -472,44 +555,48 @@
       <workItem from="1561376520502" duration="10816000" />
       <workItem from="1561424187387" duration="9794000" />
       <workItem from="1561508080105" duration="12094000" />
-      <workItem from="1561542968410" duration="2405000" />
+      <workItem from="1561542968410" duration="8143000" />
+      <workItem from="1561557710421" duration="564000" />
+      <workItem from="1561560468105" duration="1943000" />
+      <workItem from="1561594753681" duration="14496000" />
+      <workItem from="1561681239607" duration="519000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TreesTest_getTreeRoot - 2019.06.26 at 10h 33m 57s.xml">
-      <configuration name="TreesTest.getTreeRoot" configurationId="GradleRunConfiguration" />
+    <history-entry file="MergeTwoListsTest_mergeTwoLists - 2019.06.27 at 14h 46m 35s.xml">
+      <configuration name="MergeTwoListsTest.mergeTwoLists" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TreesTest_getTreeRoot - 2019.06.26 at 10h 34m 09s.xml">
-      <configuration name="TreesTest.getTreeRoot" configurationId="GradleRunConfiguration" />
+    <history-entry file="DeleteDuplicatesTest_deleteDuplicates - 2019.06.27 at 15h 06m 27s.xml">
+      <configuration name="DeleteDuplicatesTest.deleteDuplicates" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TreesTest_getTreeRoot - 2019.06.26 at 11h 06m 31s.xml">
-      <configuration name="TreesTest.getTreeRoot" configurationId="GradleRunConfiguration" />
+    <history-entry file="DeleteDuplicatesTest_deleteDuplicates - 2019.06.27 at 15h 08m 06s.xml">
+      <configuration name="DeleteDuplicatesTest.deleteDuplicates" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TreesTest_getTreeRoot - 2019.06.26 at 11h 06m 58s.xml">
-      <configuration name="TreesTest.getTreeRoot" configurationId="GradleRunConfiguration" />
+    <history-entry file="DeleteDuplicatesTest_deleteDuplicates - 2019.06.27 at 15h 09m 16s.xml">
+      <configuration name="DeleteDuplicatesTest.deleteDuplicates" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TreesTest_getTreeRoot - 2019.06.26 at 11h 19m 15s.xml">
-      <configuration name="TreesTest.getTreeRoot" configurationId="GradleRunConfiguration" />
+    <history-entry file="DeleteDuplicatesTest_test_class_modify - 2019.06.28 at 08h 23m 56s.xml">
+      <configuration name="DeleteDuplicatesTest.test_class_modify" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TreesTest_getTreeRoot - 2019.06.26 at 11h 20m 10s.xml">
-      <configuration name="TreesTest.getTreeRoot" configurationId="GradleRunConfiguration" />
+    <history-entry file="DeleteDuplicatesTest_deleteDuplicates - 2019.06.28 at 08h 24m 57s.xml">
+      <configuration name="DeleteDuplicatesTest.deleteDuplicates" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="TreesTest_getTreeRoot - 2019.06.26 at 11h 21m 07s.xml">
-      <configuration name="TreesTest.getTreeRoot" configurationId="GradleRunConfiguration" />
+    <history-entry file="DeleteDuplicatesTest_deleteDuplicates - 2019.06.28 at 08h 26m 25s.xml">
+      <configuration name="DeleteDuplicatesTest.deleteDuplicates" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindMedianTest_testFindMedianSortedArrays - 2019.06.26 at 17h 57m 59s.xml">
-      <configuration name="FindMedianTest.testFindMedianSortedArrays" configurationId="GradleRunConfiguration" />
+    <history-entry file="DeleteDuplicatesTest_deleteDuplicates - 2019.06.28 at 08h 26m 44s.xml">
+      <configuration name="DeleteDuplicatesTest.deleteDuplicates" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindMedianTest_testFindMedianSortedArrays - 2019.06.26 at 17h 58m 19s.xml">
-      <configuration name="FindMedianTest.testFindMedianSortedArrays" configurationId="GradleRunConfiguration" />
+    <history-entry file="DeleteDuplicatesTest_deleteDuplicates - 2019.06.28 at 08h 27m 30s.xml">
+      <configuration name="DeleteDuplicatesTest.deleteDuplicates" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="FindMedianTest_testFindMedianSortedArrays2 - 2019.06.26 at 17h 58m 23s.xml">
-      <configuration name="FindMedianTest.testFindMedianSortedArrays2" configurationId="GradleRunConfiguration" />
+    <history-entry file="DeleteDuplicatesTest_test_class_modify - 2019.06.28 at 08h 27m 49s.xml">
+      <configuration name="DeleteDuplicatesTest.test_class_modify" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86971000" />
+    <option name="totallyTimeSpent" value="110231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,8 +611,8 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7949527" visible="true" weight="0.19235925" />
-      <window_info id="Structure" order="1" sideWeight="0.20504732" side_tool="true" visible="true" weight="0.19235925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.86388385" visible="true" weight="0.28619304" />
+      <window_info id="Structure" order="1" sideWeight="0.13611615" side_tool="true" visible="true" weight="0.28619304" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -534,15 +621,15 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4716714" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.1713881" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.21954674" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.21388102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.10623229" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.101983" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.30878186" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.07082153" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.40509915" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -553,7 +640,7 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Mongo Explorer" order="7" />
-      <window_info anchor="right" id="Gradle" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Gradle" order="8" visible="true" weight="0.097184986" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
@@ -608,7 +695,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/ListNodeTest.java</url>
-          <line>22</line>
+          <line>21</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -690,196 +777,46 @@
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/datastructure/array/prefixesDivBy5/PrefixesDivBy5Test.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/datastructure/array/prefixesDivBy5/PrefixesDivBy5.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/datastructure/array/numPairsDivisibleBy60/NumPairsDivisibleBy60Test.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/datastructure/list/mergeTwoLists/MergeTwoListsTest.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/datastructure/list/mergeTwoLists/MergeTwoLists.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/datastructure/list/deleteDuplicates/DeleteDuplicatesTest.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48013">
-          <caret line="2598" column="26" selection-start-line="2598" selection-start-column="26" selection-end-line="2598" selection-end-column="26" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-            <element signature="e#8781#8782#0" expanded="true" />
-            <element signature="e#8852#8853#0" expanded="true" />
-            <element signature="e#10659#10660#0" expanded="true" />
-            <element signature="e#10730#10731#0" expanded="true" />
-            <element signature="e#12536#12537#0" expanded="true" />
-            <element signature="e#12595#12596#0" expanded="true" />
-            <element signature="e#14928#14929#0" expanded="true" />
-            <element signature="e#14999#15000#0" expanded="true" />
-            <element signature="e#17889#17890#0" expanded="true" />
-            <element signature="e#17960#17961#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/math/isBoomerang/IsBoomerangTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2052">
-          <caret line="117" column="35" selection-start-line="117" selection-start-column="35" selection-end-line="117" selection-end-column="35" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/math/isRobotBounded/IsRobotBoundedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sort/allCellsDistOrder/AllCellsDistOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/DelayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="964" column="16" selection-start-line="964" selection-start-column="16" selection-end-line="964" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/AddDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/practise/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/practise/JumpSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-          <folding>
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/recursion/AddDigitsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/practise/ReversalLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/array/heightChecker/HeightChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/hash/findGemstone/FindGemstone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-257">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/heap/lastStoneWeight/LastStoneWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/tree/mergeTrees/MergeTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/addTwoNumbers/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/stack/removeDuplicates/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/tree/ergodic/Preordering.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/tree/mergeTrees/MergeTreesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="61" column="56" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/tree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -1042,16 +979,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/tree/TreesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/tree/isCousins/IsCousins.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
+        <state relative-caret-position="532">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1059,45 +990,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/array/findMedianSortedArrays/FindMedian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/array/findMedianSortedArrays/FindMedianTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="665">
           <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/addTwoNumbers/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/list/addTwoNumbers/AddTwoNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="646">
           <caret line="36" selection-start-line="36" selection-start-column="2" selection-end-line="41" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1105,6 +1008,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/stack/removeOuterParentheses/RemoveOuterParenthesesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1118,8 +1032,206 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/array/findMedianSortedArrays/FindMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/tree/TreesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/stack/removeOuterParentheses/RemoveOuterParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/AddDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/stack/removeDuplicates/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/array/prefixesDivBy5/PrefixesDivBy5Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/array/prefixesDivBy5/PrefixesDivBy5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/array/canThreePartsEqualSum/CanThreePartsEqualSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+          <folding>
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/array/canThreePartsEqualSum/CanThreePartsEqualSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/array/numPairsDivisibleBy60/NumPairsDivisibleBy60Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/array/numPairsDivisibleBy60/NumPairsDivisibleBy60.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/math/bitwiseComplement/BitwiseComplementTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/math/bitwiseComplement/BitwiseComplement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/greedy/largestSumAfterKNegations/LargestSumAfterKNegations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/mergeTwoLists/MergeTwoLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/list/mergeTwoLists/MergeTwoListsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Gradle/gradle-repository/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/addTwoNumbers/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/list/deleteDuplicates/DeleteDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/datastructure/list/deleteDuplicates/DeleteDuplicatesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/datastructure/map/commonChars/CommonChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

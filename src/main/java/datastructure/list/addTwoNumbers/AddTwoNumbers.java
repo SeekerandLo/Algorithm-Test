@@ -1,5 +1,7 @@
 package datastructure.list.addTwoNumbers;
 
+import datastructure.list.ListNode;
+
 /**
  * data: 2019/6/17 14:15
  **/

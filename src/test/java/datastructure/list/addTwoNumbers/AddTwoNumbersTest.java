@@ -1,5 +1,6 @@
 package datastructure.list.addTwoNumbers;
 
+import datastructure.list.ListNode;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
@@ -51,7 +52,7 @@ public class AddTwoNumbersTest {
         node2.next = new ListNode(1);
         node2.next.next = new ListNode(2);
 
-        String actual = addTwoNumbers.addTwoNumbers(node1, node2).out();
+        String actual = addTwoNumbers.addTwoNumbers(node1, node2).reverseOut();
         String expect = "220";
 
         Assert.assertEquals(expect, actual);
@@ -62,7 +63,7 @@ public class AddTwoNumbersTest {
         ListNode node1 = new ListNode(0);
         node1.next = new ListNode(1);
 
-        String actual = addTwoNumbers.addTwoNumbers(node1, null).out();
+        String actual = addTwoNumbers.addTwoNumbers(node1, null).reverseOut();
         String expect = "10";
 
         Assert.assertEquals(expect, actual);
@@ -75,7 +76,7 @@ public class AddTwoNumbersTest {
 
         ListNode node2 = new ListNode(1);
 
-        String actual = addTwoNumbers.addTwoNumbers(node1, node2).out();
+        String actual = addTwoNumbers.addTwoNumbers(node1, node2).reverseOut();
         String expect = "100";
 
         Assert.assertEquals(expect, actual);
