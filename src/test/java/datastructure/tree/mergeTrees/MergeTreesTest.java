@@ -1,15 +1,9 @@
 package datastructure.tree.mergeTrees;
 
-import datastructure.tree.Tree;
 import datastructure.tree.TreeNode;
 import datastructure.tree.ergodic.BreadthFirstErgodic;
-import javafx.scene.layout.BackgroundRepeat;
 import org.junit.Before;
 import org.junit.Test;
-
-import java.util.ArrayList;
-
-import static org.junit.Assert.*;
 
 public class MergeTreesTest {
 
