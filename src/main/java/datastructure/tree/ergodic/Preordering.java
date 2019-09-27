@@ -1,8 +1,5 @@
 package datastructure.tree.ergodic;
 
-import datastructure.tree.Tree;
-import datastructure.tree.TreeNode;
-
 /**
  * 先序遍历 ： 根左右
  *
@@ -12,15 +9,6 @@ import datastructure.tree.TreeNode;
 
 public class Preordering {
 
-    public TreeNode<Character> pre(TreeNode<Character> root) {
-        if (root == null) {
-            return null;
-        }
-        System.out.println(root.getVal());
-        pre(root.getLeft());
-        pre(root.getRight());
-        return null;
-    }
 
 
 }
